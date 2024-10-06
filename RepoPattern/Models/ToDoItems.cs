@@ -1,6 +1,6 @@
 namespace Repository_Pattern.RepoPattern;
 
-public class ToDoItem
+public class ToDoItems
 {
     public int Id { get; set; }
     public DateTime DueDate { get; set; }
